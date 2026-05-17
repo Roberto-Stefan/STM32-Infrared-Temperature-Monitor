@@ -85,7 +85,7 @@ Desenvolver um sistema embarcado capaz de realizar monitoramento de temperatura 
 ---
 ## Demonstration Video | Vídeo de Demonstração
 
-[![Watch the video](https://www.youtube.com/shorts/8EnLBiunPQI)
+[![Watch the video](https://img.youtube.com/vi/8EnLBiunPQI/0.jpg)](https://www.youtube.com/shorts/8EnLBiunPQI)
 
 ---
 ## Technologies Used | Tecnologias Utilizadas
