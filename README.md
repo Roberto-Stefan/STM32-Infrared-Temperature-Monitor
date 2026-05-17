@@ -30,7 +30,7 @@ A leitura da temperatura é realizada via comunicação I2C, enquanto o microcon
 
 ## Project Image | Imagem do Projeto
 
-<img src="docs/imagens/STM32%20Temperatura%20MLX%2090614.jpg" width="700">
+<img src="docs/imagens/STM32%20Temperatura%20MLX%2090614.jpg" width="300">
 
 ---
 
@@ -76,11 +76,11 @@ Desenvolver um sistema embarcado capaz de realizar monitoramento de temperatura 
 
 ### STM32 NUCLEO-G474RE
 
-<img src="docs/imagens/STM32%20Nucleo%20G474%20RE.jpg" width="400">
+<img src="docs/imagens/STM32%20Nucleo%20G474%20RE.jpg" width="300">
 
 ### MLX90614 Infrared Sensor | Sensor Infravermelho MLX90614
 
-<img src="docs/imagens/Sensor%20MLX%2090614.jpg" width="400">
+<img src="docs/imagens/Sensor%20MLX%2090614.jpg" width="300">
 
 ---
 
