@@ -83,7 +83,11 @@ Desenvolver um sistema embarcado capaz de realizar monitoramento de temperatura 
 <img src="docs/imagens/Sensor%20MLX%2090614.jpg" width="300">
 
 ---
+## Demonstration Video | Vídeo de Demonstração
 
+[![Watch the video](https://www.youtube.com/shorts/8EnLBiunPQI)
+
+---
 ## Technologies Used | Tecnologias Utilizadas
 
 - STM32G474RE
