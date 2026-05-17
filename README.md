@@ -28,12 +28,27 @@ A leitura da temperatura é realizada via comunicação I2C, enquanto o microcon
 
 ---
 
-## Project Image | Imagem do Projeto
+## Project Images | Imagens do Projeto
 
-<img src="docs/imagens/STM32%20Temperatura%20MLX%2090614.jpg" width="250">
-<img src="docs/imagens/STM32%20Nucleo%20G474%20RE.jpg" width="250">
-<img src="docs/imagens/Sensor%20MLX%2090614.jpg" width="250">
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="docs/imagens/STM32%20Temperatura%20MLX%2090614.jpg" width="250"><br>
+      Complete Project
+    </td>
+
+    <td align="center">
+      <img src="docs/imagens/STM32%20Nucleo%20G474%20RE.jpg" width="250"><br>
+      STM32 NUCLEO-G474RE
+    </td>
+
+    <td align="center">
+      <img src="docs/imagens/Sensor%20MLX%2090614.jpg" width="250"><br>
+      MLX90614 Sensor
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 🇺🇸 Objective
