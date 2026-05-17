@@ -100,5 +100,4 @@ Desenvolver um sistema embarcado capaz de realizar monitoramento de temperatura 
 
 
 
-docs/
-├── imagens
+
