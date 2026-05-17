@@ -12,7 +12,9 @@
 
 Embedded system developed using the STM32 NUCLEO-G474RE board and the MLX90614 infrared sensor for non-contact temperature measurement.
 
-The project performs temperature acquisition through I2C communication, processes the data using the STM32 microcontroller, and displays the information in real time.
+The system is capable of monitoring both ambient temperature and the temperature of nearby heat-emitting objects in real time.
+
+Temperature acquisition is performed through I2C communication, while the STM32 microcontroller processes the data and displays the information.
 
 ---
 
@@ -20,7 +22,9 @@ The project performs temperature acquisition through I2C communication, processe
 
 Sistema embarcado desenvolvido com a placa STM32 NUCLEO-G474RE utilizando o sensor infravermelho MLX90614 para medição de temperatura sem contato.
 
-O projeto realiza a leitura da temperatura via comunicação I2C, processa os dados utilizando o microcontrolador STM32 e exibe as informações em tempo real.
+O sistema é capaz de monitorar tanto a temperatura ambiente quanto a temperatura de objetos emissores de calor próximos ao sensor em tempo real.
+
+A leitura da temperatura é realizada via comunicação I2C, enquanto o microcontrolador STM32 processa os dados e exibe as informações no display.
 
 ---
 
@@ -32,20 +36,22 @@ O projeto realiza a leitura da temperatura via comunicação I2C, processa os da
 
 ## 🇺🇸 Objective
 
-Develop an embedded system capable of performing non-contact temperature monitoring using an infrared sensor integrated with the STM32 microcontroller.
+Develop an embedded system capable of performing real-time non-contact temperature monitoring using an infrared sensor integrated with the STM32 microcontroller.
 
 ---
 
 ## 🇧🇷 Objetivo
 
-Desenvolver um sistema embarcado capaz de realizar monitoramento de temperatura sem contato utilizando sensor infravermelho integrado ao microcontrolador STM32.
+Desenvolver um sistema embarcado capaz de realizar monitoramento de temperatura sem contato em tempo real utilizando sensor infravermelho integrado ao microcontrolador STM32.
 
 ---
 
 ## 🇺🇸 Features
 
 - I2C communication
-- Real-time temperature acquisition
+- Real-time ambient temperature monitoring
+- Detection of nearby heat-emitting objects
+- Non-contact temperature measurement
 - Data processing using STM32
 - Real-time display visualization
 - Developed using STM32 HAL
@@ -56,7 +62,9 @@ Desenvolver um sistema embarcado capaz de realizar monitoramento de temperatura 
 ## 🇧🇷 Funcionalidades
 
 - Comunicação I2C
-- Leitura de temperatura em tempo real
+- Monitoramento da temperatura ambiente em tempo real
+- Detecção de objetos emissores de calor próximos ao sensor
+- Medição de temperatura sem contato
 - Processamento utilizando STM32
 - Exibição em display
 - Desenvolvimento utilizando STM32 HAL
