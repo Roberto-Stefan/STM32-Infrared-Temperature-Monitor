@@ -96,16 +96,9 @@ Desenvolver um sistema embarcado capaz de realizar monitoramento de temperatura 
 - I2C Communication | Comunicação I2C
 - STM32CubeIDE
 
----
 
-## Project Structure | Estrutura do Projeto
 
-```text
-firmware/
-└── Sensor_MLX/
-    ├── Core/
-    ├── Drivers/
-    └── STM32CubeIDE project files
+
 
 docs/
 ├── imagens
