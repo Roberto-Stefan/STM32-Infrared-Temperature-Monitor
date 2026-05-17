@@ -104,6 +104,4 @@ firmware/
     └── STM32CubeIDE project files
 
 docs/
-├── imagens/
-├── testes/
-└── video/
+├── imagens
